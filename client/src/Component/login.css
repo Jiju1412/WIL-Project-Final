@@ -1,0 +1,26 @@
+.main-container {
+    background-color: rgb(206, 221, 218);
+    width: 40%;
+    border: 0px solid #595f6b;
+    border-radius: 2%;
+    padding: 50px;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+  }
+
+ .logo{
+     margin: auto;
+     text-align: center;
+ }
+
+ .text-desc{
+     margin: 10px;
+     text-align: center;
+ }
+
+ .label{
+     text-align: left;
+ }
+
+ 

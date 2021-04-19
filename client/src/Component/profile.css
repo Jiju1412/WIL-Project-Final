@@ -1,0 +1,70 @@
+.main-div{
+    background-color: rgb(206, 221, 218);
+    margin: auto;
+    margin-top:80px;
+    border: 0px solid #595f6b;
+    border-radius: 2%;
+    width: 40%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-text{
+    display: flex;
+    flex:3;
+    
+}
+
+.header.btn{
+    flex:1;
+}
+.profile-header{
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    margin: 10px;
+    align-items: center;
+    align-content: center;
+}
+
+.profile-content{
+    display: flex;
+    flex-basis: 50%;
+    align-items:flex-start;
+    margin-top: 50px;
+}
+
+.content-1{
+    flex: 1;
+}
+
+.content-2{
+    flex:2;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    width: ;
+    padding: 10px;
+    border: 2px solid #595f6b;
+}
+
+.label{
+    margin: 5px;
+}
+
+.profile-footer{
+    text-align: center;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+table{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logoprofile{
+    margin-right: 50px;
+    margin-left: 10px;
+}
